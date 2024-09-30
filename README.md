@@ -11,7 +11,7 @@ Este projeto utiliza a função **AWS Lambda** para lidar com processos específ
 
 - **lambda_function/lambda_function.py**: Contém a implementação da função Lambda em **Python**.
 - **.github/workflows/deploy_lambda.yml**: Contém a definição do workflow do GitHub Actions para automatizar o deploy da Lambda.
-
+ 
 ## Como Funciona
 
 ### AWS Lambda
