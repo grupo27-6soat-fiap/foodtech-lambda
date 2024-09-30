@@ -2,7 +2,7 @@
 # Foodtech Lambda Function
 
 Este repositório contém a configuração e implementação da **AWS Lambda** usada pelo sistema **Foodtech**. Esta função Lambda é desenvolvida em **Python** e gerenciada por meio de **GitHub Actions** para automação de deploy.
-
+ 
 ## Visão Geral do Projeto
 
 Este projeto utiliza a função **AWS Lambda** para lidar com processos específicos no sistema **Foodtech**, incluindo autenticação de usuários e integração com o banco de dados **DynamoDB**.
